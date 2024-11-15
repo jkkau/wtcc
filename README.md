@@ -1,2 +1,3 @@
 # wtcc
-way to c compiler
+
+Try to write a compiler for the nth time.
